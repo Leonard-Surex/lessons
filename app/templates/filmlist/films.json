@@ -1,0 +1,62 @@
+[
+    {
+        "title": "The Shawshank Redemption",
+        "stars": 5,
+        "genre": "Drama",
+        "tags": "Hope, Prison"
+    },
+    {
+        "title": "The Godfather",
+        "stars": 4,
+        "genre": "Crime, Drama",
+        "tags": "Mafia, Family"
+    },
+    {
+        "title": "The Dark Knight",
+        "stars": 2,
+        "genre": "Action, Crime, Drama",
+        "tags": "Superhero, Vigilante"
+    },
+    {
+        "title": "Inception",
+        "stars": 4,
+        "genre": "Action, Adventure, Sci-Fi",
+        "tags": "Dream, Heist"
+    },
+    {
+        "title": "Forrest Gump",
+        "stars": 3,
+        "genre": "Drama, Romance",
+        "tags": "Journey, Inspirational"
+    },
+    {
+        "title": "Pulp Fiction",
+        "stars": 3,
+        "genre": "Crime, Drama",
+        "tags": "Nonlinear, Cult Film"
+    },
+    {
+        "title": "Fight Club",
+        "stars": 3,
+        "genre": "Drama",
+        "tags": "Anarchy, Cult Film"
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "stars": 5,
+        "genre": "Adventure, Drama, Fantasy",
+        "tags": "Epic, Battle"
+    },
+    {
+        "title": "The Matrix",
+        "stars": 3,
+        "genre": "Action, Sci-Fi",
+        "tags": "Virtual Reality, Dystopia"
+    },
+    {
+        "title": "Goodfellas",
+        "stars": 4,
+        "genre": "Biography, Crime, Drama",
+        "tags": "Mafia, Rise and Fall"
+    }
+]
